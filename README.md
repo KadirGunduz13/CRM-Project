@@ -54,8 +54,4 @@ Seçilen Kampanyalar:
 
 ---
 
-## 📌 İletişim
-Bu proje hakkında herhangi bir sorunuz varsa benimle iletişime geçebilirsiniz:
-📧 **E-posta:** kadir.gunduz@example.com
-
 👨‍💻 **Geliştirici:** **Kadir Gündüz**
