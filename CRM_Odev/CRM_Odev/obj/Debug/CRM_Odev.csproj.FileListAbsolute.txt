@@ -1,0 +1,7 @@
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\bin\Debug\CRM_Odev.exe.config
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\bin\Debug\CRM_Odev.exe
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\bin\Debug\CRM_Odev.pdb
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\obj\Debug\CRM_Odev.csproj.AssemblyReference.cache
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\obj\Debug\CRM_Odev.csproj.CoreCompileInputs.cache
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\obj\Debug\CRM_Odev.exe
+C:\Users\kdrgn\source\repos\CRM_Odev\CRM_Odev\obj\Debug\CRM_Odev.pdb
